@@ -35,15 +35,18 @@ print("valor")
 #iterar valores en phyton
 mi_diccionario= ()
 "phyton"
-pais= {"Italia"} 
+pais= ("francia")
+capital= ("paris")
+print("capital")
+pais= ("Italia")
 capital= ("Roma")
-print= ("pais")
+print= ("capital")
 pais= ("españa")
 capital= ("madrid")
-print= ("pais")
+print= ("capital")
 pais=" el {Italia} es {Roma}"
 pais= "el {españa} es {madrid}"
-
+pais= "el {francia} es {paris}"
 
   
  
