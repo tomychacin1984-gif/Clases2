@@ -1,2 +1,2 @@
-# Clases2
+# tarea de curso
 Tareas
