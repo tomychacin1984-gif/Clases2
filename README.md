@@ -1,2 +1,0 @@
-# tarea de curso
-Tareas
